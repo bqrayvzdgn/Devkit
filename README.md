@@ -1,4 +1,4 @@
-# DevKit
+# Devkit
 
 All-in-one developer tools desktop application built with Tauri, React, and TypeScript.
 
