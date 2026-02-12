@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version:*)",
+      "Bash(npm install:*)",
+      "Bash(timeout:*)",
+      "Bash(npm run tauri:*)",
+      "Bash(tasklist:*)",
+      "Bash(findstr:*)",
+      "Bash(powershell -Command:*)",
+      "Bash(taskkill:*)",
+      "Bash(start \"\" \"C:\\\\Users\\\\MONSTER\\\\projects\\\\dev-utilities\\\\src-tauri\\\\target\\\\release\\\\dev-utilities.exe\")",
+      "Bash(dir:*)",
+      "Bash(npm run build:*)",
+      "Bash(start:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(netstat:*)"
+    ]
+  }
+}
