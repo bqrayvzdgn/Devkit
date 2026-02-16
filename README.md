@@ -1,4 +1,4 @@
-# Devkit
+# VoidKit
 
 All-in-one developer tools desktop application built with Tauri, React, and TypeScript.
 
@@ -17,9 +17,9 @@ All-in-one developer tools desktop application built with Tauri, React, and Type
 ## Installation
 
 Download the latest release from the releases page:
-- **Windows MSI Installer**: `devkit_0.1.0_x64_en-US.msi`
-- **Windows NSIS Installer**: `devkit_0.1.0_x64-setup.exe`
-- **Portable Executable**: `devkit.exe`
+- **Windows MSI Installer**: `voidkit_0.1.0_x64_en-US.msi`
+- **Windows NSIS Installer**: `voidkit_0.1.0_x64-setup.exe`
+- **Portable Executable**: `voidkit.exe`
 
 ## Development
 
